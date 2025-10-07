@@ -1,0 +1,8 @@
+# Rename as .env with your details
+CAPACITIES_API_KEY=xxx
+SPACE_ID=xx
+VAULT_PATH=xx
+PERSON_STRUCTURE_NAME=xx
+EVENT_STRUCTURE_NAME=xx
+# Optional: set if your Event type already has a people-link property:
+EVENT_PEOPLE_PROPERTY_NAME=xx
